@@ -19,12 +19,12 @@
         - pop - list.pop()
         - push - list.append() 와 동일
 
-    ![stack](https://raw.githubusercontent.com/y7pWuXAq/basic-python-2024/main/images/stack.gif)
+    ![stack](https://raw.githubusercontent.com/y7pWuXAq/2024-ds-and-algorithm/main/images/stack.gif)
 
 
     - 큐 : First In First Out (FIFO)
 
-    ![queue](https://raw.githubusercontent.com/y7pWuXAq/basic-python-2024/main/images/queue01.png)
+    ![queue](https://raw.githubusercontent.com/y7pWuXAq/2024-ds-and-algorithm/main/images/queue01.png)
 
 
 
