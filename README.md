@@ -15,10 +15,18 @@
 - 파이썬 자료구조
     - 단순 연결 리스트 다시
     - 원형 연결 리스트(패스) : 마지막 노드가 첫 노드와 연결 된 것
-    - 스택
-    - 큐
-    - 트리
-    - 그래프
+    - 스택 : Last In First Out (LIFO)
+        - pop - list.pop()
+        - push - list.append() 와 동일
+
+    ![stack](https://raw.githubusercontent.com/y7pWuXAq/basic-python-2024/main/images/stack.gif)
+
+
+    - 큐 : First In First Out (FIFO)
+
+    ![queue](https://raw.githubusercontent.com/y7pWuXAq/basic-python-2024/main/images/queue01.png)
+
+
 
 ## 4일차
 - 파이썬 자료구조
