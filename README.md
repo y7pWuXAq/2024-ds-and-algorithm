@@ -1,11 +1,17 @@
-# 자료구조와 알고리즘 2024
-부경대 Iot 개발자 파이썬 자료구조와 알고리즘 학습 리포지토리
+## 2024-ds-and-algorithm
+IoT 개발자과정 파이썬 자료구조와 알고리즘 학습 리포지토리
 
-## 1일차
+
+
+### DAY 01
+
 - 자료구조, 알고리즘 개요
 - 파이썬 기초 복습, 함수까지
 
-## 2일차
+
+
+### DAY 02
+
 - 파이썬 기초 복습 완료
 
 ![자료구조](https://t1.daumcdn.net/cfile/tistory/23202B4C53FDC5600C)
@@ -16,7 +22,10 @@
 
     ![연결리스트](https://upload.wikimedia.org/wikipedia/commons/9/9c/Single_linked_list.png)
 
-## 3일차
+
+
+### DAY 03
+
 - 파이썬 자료구조
     - 단순 연결 리스트 다시
     - 원형 연결 리스트(패스) : 마지막노드가 첫 노드와 연결
@@ -31,20 +40,28 @@
     ![queue](https://raw.githubusercontent.com/y7pWuXAq/2024-ds-and-algorithm/main/images/queue.png)
         
 
-## 4일차
+
+### DAY 04
+
 - 파이썬 자료구조
     - 큐 다시
     - 이진 트리
 
     ![이진트리](https://kahee.github.io//assets/post_img/tree3.png)
 
-## 5일차
+
+
+### DAY 05
+
 - 파이썬 자료구조/알고리즘
     - 그래프
 
     ![그래프개념](https://raw.githubusercontent.com/y7pWuXAq/2024-ds-and-algorithm/main/images/graph02.png)
 
-## 6일차 (24.02.19)
+
+
+### DAY 06 (24.02.19)
+
 - 파이썬 자료구조/알고리즘
     - 재귀호출
     - 정렬
@@ -55,7 +72,10 @@
 
     ![정렬](https://raw.githubusercontent.com/y7pWuXAq/2024-ds-and-algorithm/main/images/sorting.jpg)
 
-## 7일차
+
+
+### DAY 07
+
 - 파이썬 자료구조/알고리즘
     - 검색
 - 코딩테스트
